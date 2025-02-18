@@ -1,4 +1,4 @@
-#INNOVATRAD
+**INNOVATRAD
 
 Este proyecto tiene como objetivo diseñar, implementar y validar una innovadora herramienta de Interpretación Asistida por Ordenador (CAI) basada en inteligencia artificial avanzada. Su propósito es optimizar la creación de glosarios personalizados, gestionar corpus especializados y mejorar la transcripción precisa de términos, facilitando así el acceso a la información clave en el ámbito de la interpretación.
 
